@@ -1,0 +1,14 @@
+/Users/wuxiancheng/Exists/bin/Debug/netcoreapp2.2/Exists.deps.json
+/Users/wuxiancheng/Exists/bin/Debug/netcoreapp2.2/Exists.runtimeconfig.json
+/Users/wuxiancheng/Exists/bin/Debug/netcoreapp2.2/Exists.runtimeconfig.dev.json
+/Users/wuxiancheng/Exists/bin/Debug/netcoreapp2.2/Exists.dll
+/Users/wuxiancheng/Exists/bin/Debug/netcoreapp2.2/Exists.pdb
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.csprojAssemblyReference.cache
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.csproj.CoreCompileInputs.cache
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.RazorAssemblyInfo.cache
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.RazorAssemblyInfo.cs
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.AssemblyInfoInputs.cache
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.AssemblyInfo.cs
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.RazorTargetAssemblyInfo.cache
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.dll
+/Users/wuxiancheng/Exists/obj/Debug/netcoreapp2.2/Exists.pdb
